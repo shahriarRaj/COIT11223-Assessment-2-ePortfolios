@@ -24,4 +24,4 @@ This portfolio is my own work. I have acknowledged the ideas, images and informa
 
 ## AI-use acknowledgement
 
-AI was used during planning to help me understand the assessment requirements, organise the Markdown files, identify possible sources and prepare an initial draft. I reviewed the Portfolio 1 content against my workshop experience and will check each source before submission.
+AI was used during planning to help me understand the assessment requirements, organise the Markdown files, identify possible sources and prepare an initial draft. I reviewed the Portfolio content against my workshop experience and will check each source before submission.
